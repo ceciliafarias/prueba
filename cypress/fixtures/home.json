@@ -1,0 +1,5 @@
+{
+    "searchInputText": "#search > .form-control",
+    "searchButton": ".input-group-btn > .btn",
+    "carItem": "#cart-total"
+}

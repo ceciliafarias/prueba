@@ -1,0 +1,20 @@
+{
+    "checkoutRadioButton": "input[value='guest']",
+    "continueButton": "#button-account",
+    "firstNameInput": "#input-payment-firstname",
+    "lastNameInput": "#input-payment-lastname",
+    "emailInput": "#input-payment-email",
+    "cellPhoneInput": "#input-payment-telephone",
+    "addressInput": "#input-payment-address-1",
+    "cityInput": "#input-payment-city",
+    "postCodeInput": "#input-payment-postcode",
+    "regionInput": "#input-payment-zone",
+    "billinContinueButton": "#button-guest",
+    "addCommentTextArea": "textarea[name='comment']",
+    "shippingContinueButton": "#button-shipping-method",
+    "agreeCheckbox": "input[name='agree']",
+    "paymentContinueButton": "#button-payment-method",
+    "totalText": "tfoot > :nth-child(5) > :nth-child(2)",
+    "confirmButton": "#button-confirm",
+    "confirmText": "#content > h1"
+}

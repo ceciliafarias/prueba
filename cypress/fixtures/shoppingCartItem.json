@@ -1,0 +1,4 @@
+{
+    "totalShoppingCar": "tbody > :nth-child(4) > :nth-child(2)",
+    "checkoutButton": "#cart ul li:nth-child(2) div p a"
+}

@@ -1,0 +1,6 @@
+{
+    "addToCardButton": "#button-cart",
+    "productText": ".col-sm-4 > h1",
+    "successAlert": ".alert",
+    "productValue": ":nth-child(4) > :nth-child(1) > h2"
+}
